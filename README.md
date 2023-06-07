@@ -1,7 +1,7 @@
 
 
 # SEA:ME - Agile way of study
-### Manual for Study Guidelines & Best Practices
+### Manual for Study & Best Practices
 
 Welcome to the SEA:ME (Software Engineering in Automotive & Mobility Ecosystem) program! This manual is designed to provide you with essential information and best practices to make the most of your learning journey in SEA:ME. Please read through the following guidelines carefully:
 
