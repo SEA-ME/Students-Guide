@@ -147,3 +147,14 @@ Remember, Agile is about flexibility and iterative progress. Adjust the Agile pr
 The SEA:ME program is an exceptional opportunity to gain valuable skills and knowledge in software engineering for the automotive and mobility industry. By following these guidelines and actively engaging in the learning process, you will maximize your learning outcomes and set yourself up for a successful career in this exciting field.
 
 Wishing you an enriching and rewarding experience in the SEA:ME program!
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
